@@ -1,0 +1,2 @@
+# CsharpCore
+learning C# Conre 
